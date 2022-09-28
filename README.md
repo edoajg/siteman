@@ -7,6 +7,7 @@ Oriented to contractors to archieve an organized and traceable operation across 
 Demo unit is integrated with a demo contract for electrical works at a photovoltaic power plant.
 
 https:// siteman.landa-works.com
+
 It will be back online soon.
 
 For demo access use demo at demo dot com with demo123123 as pass. 
@@ -14,7 +15,9 @@ For demo access use demo at demo dot com with demo123123 as pass.
 Installation:
 
   `git clone https://github.com/edoajg/siteman.git`
+  
   `npm update`
+  
   `node index.js`
   
   
