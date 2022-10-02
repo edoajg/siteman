@@ -2,7 +2,7 @@
 
 Management platform for engineering projects. Coded with MEAN stack.
 
-Oriented to contractors to archieve an organized and traceable operation across a project. Managing construction progress, human resources, supply chain, QA/QC, HSE, finances, etc.
+Oriented to contractors to archieve an organized and traceable operation across a project. Managing construction progress, human resources, logistics, QA/QC, HSE, finances, etc.
 
 Demo unit is integrated with a demo contract for electrical works at a photovoltaic power plant.
 
