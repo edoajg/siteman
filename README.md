@@ -6,9 +6,9 @@ Oriented to contractors to archieve an organized and traceable operation across 
 
 Demo unit is integrated with a demo contract for electrical works at a photovoltaic power plant.
 
-https:// siteman.landa-works.com
+http://198.199.123.199:3801/
 
-It will be back online soon.
+
 
 For demo access use demo at demo dot com with demo123123 as pass. 
 
@@ -19,6 +19,8 @@ Installation:
   `npm update`
   
   `node index.js`
+  
+  *Must have mongodb service installed and running.
   
   
  Feel free to contact me if interested on test or contribute.
