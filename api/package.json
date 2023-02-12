@@ -22,6 +22,6 @@
     "underscore-node": "^0.1.2"
   },
   "devDependencies": {
-    "nodemon": "^2.0.7"
+    "nodemon": "^2.0.20"
   }
 }
